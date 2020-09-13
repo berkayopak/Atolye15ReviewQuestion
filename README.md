@@ -1,4 +1,4 @@
-# Atolye15 Question
+# Interview Question
 
 Please update `src/move.ts` to pass tests. You can find the tests in `src/move.spec.ts`.
 
